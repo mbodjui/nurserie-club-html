@@ -1,0 +1,4 @@
+Créer une page de demande de réservation d'un hôtel suivant le modèle fourni en PJ.
+Les données saisies par l'utilisateur ne sont pas sensibles, vous choisirez la méthode d'envoi des données adaptée à cette situation.
+
+
